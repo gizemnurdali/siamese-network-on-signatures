@@ -1,7 +1,7 @@
 **Siamese Network ve İmzalar Arası Benzerlik Bulma Çalışması**
 
 Bu çalışma Siamese Network kullanarak imzalar arası benzerlik bulmayı içermektedir.
-Çalışmanın network eğitim kısmı GPU desteği nedeniyle Google Colab'da gerçekleştirilmiş olup, elde edilen çıktılar ve notebook dosyası *YK_CHALLENGE* dosyasına yüklenmiştir.
+Çalışmanın network eğitim kısmı GPU desteği nedeniyle Google Colab'da gerçekleştirilmiş olup, elde edilen çıktılar ve notebook dosyası *siamese-network-on-signatures* dosyasına yüklenmiştir.
 
 **Aşamalar**
 
